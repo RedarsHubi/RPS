@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/RPS/static/css/main.fefb7896.css",
+    "main.js": "/RPS/static/js/main.ddfc75cc.js",
+    "static/js/885.41bc24b5.chunk.js": "/RPS/static/js/885.41bc24b5.chunk.js",
+    "static/media/ost.mp3": "/RPS/static/media/ost.49a7cf67966abec844f0.mp3",
+    "static/media/zawazawa.wav": "/RPS/static/media/zawazawa.5bae2bcdb800a6b12a9b.wav",
+    "static/media/hidden.png": "/RPS/static/media/hidden.b2113f64a377d0a83c83.png",
+    "static/media/kaijibg.png": "/RPS/static/media/kaijibg.3c127258205c262d4932.png",
+    "static/media/tie.png": "/RPS/static/media/tie.fccc52b9a03a6ceaf4d9.png",
+    "static/media/hope.png": "/RPS/static/media/hope.5792474583b9878c7546.png",
+    "static/media/death.png": "/RPS/static/media/death.e1cb28dd943187ad9ad4.png",
+    "static/media/win.mp3": "/RPS/static/media/win.3e6f4f4def04f31b5225.mp3",
+    "static/media/lose.mp3": "/RPS/static/media/lose.bf05f587660865f8fd02.mp3",
+    "static/media/paper.mp3": "/RPS/static/media/paper.a187902ea646ef3f1b24.mp3",
+    "static/media/paper.jpg": "/RPS/static/media/paper.d49788355cc4d26f7a1e.jpg",
+    "static/media/rock.jpg": "/RPS/static/media/rock.d8cf62a61171b7cc58c6.jpg",
+    "static/media/scissor.jpg": "/RPS/static/media/scissor.30babde513457814fa96.jpg",
+    "static/media/rock.mp3": "/RPS/static/media/rock.de30712fdb0155d9664b.mp3",
+    "static/media/scissors.mp3": "/RPS/static/media/scissors.cb7490099867bbad6fcd.mp3",
+    "static/media/card.mp3": "/RPS/static/media/card.9af49cddbd0026185252.mp3",
+    "index.html": "/RPS/index.html",
+    "main.fefb7896.css.map": "/RPS/static/css/main.fefb7896.css.map",
+    "main.ddfc75cc.js.map": "/RPS/static/js/main.ddfc75cc.js.map",
+    "885.41bc24b5.chunk.js.map": "/RPS/static/js/885.41bc24b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fefb7896.css",
+    "static/js/main.ddfc75cc.js"
+  ]
+}
